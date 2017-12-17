@@ -58,6 +58,13 @@ PCB 보드에 연결할 선을 회로도로 나타낸 모습입니다.
 ### 라이노 및 3D 프린팅
 
 <amp-img src="{{ site.baseurl }}assets/images/ddegorhinoskin.png" width="656" height="400" layout="responsive" alt="" class="mb3"></amp-img>
+<amp-img src="{{ site.baseurl }}assets/images/rhino1.png" width="656" height="400" layout="responsive" alt="" class="mb3"></amp-img>
+<amp-img src="{{ site.baseurl }}assets/images/rhino2.png" width="656" height="400" layout="responsive" alt="" class="mb3"></amp-img>
+<amp-img src="{{ site.baseurl }}assets/images/rhino3.png" width="656" height="400" layout="responsive" alt="" class="mb3"></amp-img>
+<amp-img src="{{ site.baseurl }}assets/images/rhino4.png" width="656" height="400" layout="responsive" alt="" class="mb3"></amp-img>
+<amp-img src="{{ site.baseurl }}assets/images/rhino5.png" width="656" height="400" layout="responsive" alt="" class="mb3"></amp-img>
+<amp-img src="{{ site.baseurl }}assets/images/rhino6.png" width="656" height="400" layout="responsive" alt="" class="mb3"></amp-img>
+<amp-img src="{{ site.baseurl }}assets/images/rhino7.png" width="656" height="400" layout="responsive" alt="" class="mb3"></amp-img>
 
 사용자가 서서 조작하기 편리하도록 화면과 조작부가 위를 향해 있는 수평형 설계를 했습니다.
 ABS와 PLA 재질을 사용하여 인쇄했으며, 밀도를 증가시켜서 견고하게 인쇄하였습니다.
