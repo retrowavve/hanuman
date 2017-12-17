@@ -36,6 +36,10 @@ https://youtu.be/gOvtueTeT9M
 저희 팀은 "레고"를 컨셉으로 제품을 디자인하기로 하였습니다. 하지만 단순히 모양만 레고일 뿐만 아니라, 떼었다 붙였다 할 수 있는 레고의 특징을 최대한 이용하는 방식으로 디자인을 하고자 하였습니다.
 따라서 사용자에 입맛에 따라 "모듈"을 추가할 수 있도록 하여 원하는 대로 기기를 조립할 수 있도록 했고, 매장에서 사용할 수 있는 "모듈"에는 어떤 것들이 있는지 고민하다 명함꽂이, 펜꽂이 등을 모듈로 만들고자 하였습니다.
 
+![프로토3](https://github.com/retrowavve/retrowavve.github.io/blob/master/assets/images/ddegoproto3.jpeg)
+![프로토1](https://github.com/retrowavve/retrowavve.github.io/blob/master/assets/images/ddegoproto1.jpeg)
+
+
 소규모 매장에서 카운터 옆에 두고 사용할 수 있고, 조작이 편리하도록 초기 프로토타입을 디자인 하는 모습입니다.
 
 PCB 보드에 연결할 선을 회로도로 나타낸 모습입니다.
