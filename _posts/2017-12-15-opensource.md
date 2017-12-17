@@ -1,7 +1,7 @@
 ---
 layout: post
 cover: 'assets/images/tree.jpg'
-title: 2017년 1학년 2학기 오픈소스 실습: 뮤직 플레이어 떼고 "DDEGO"
+title: 2017 1-2 OpenSource: Music Player "DDEGO"
 date: 2017-12-15 12:00:00
 tags: ddego, opensource, hanyang
 author: Jason Koo
