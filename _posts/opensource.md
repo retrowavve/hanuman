@@ -7,7 +7,6 @@ tags: ddego, opensource, hanyang
 author: Jason Koo
 ---
 
-
 대학교에 들어와서 처음 접한 PBL이라는 수업이 있었습니다. 이는 Problem-Based Learning의 줄임말로, 어떤 주제에 대해 학생이 직접 문제를 해결해가면서 배우는 방식의 수업이었습니다. 일정한 과정만을 따라가며 그대로 따라하는 방식에 익숙해져 있는 저는 이러한 수업 방식이 생소하게 느껴졌습니다.
 1학년 2학기에 수강하게 된 오픈소스라는 PBL 강의에서는, 매장에서 음원을 재생할 때 사용하는 최소기능제품 개발 프로젝트를 맡게 되었습니다.
 
@@ -19,25 +18,23 @@ MVP 는 오픈소스에 기반한 간단한 네트워크 스토리지 서버와 
 따라서 저희 팀은 라즈베리파이에 운영체제를 설치한 뒤, 기본적인 LCD 디스플레이와 브레드보드를 연결하고
 파이 안에 설치되어 있는 파이썬 언어로 필요로 하는 기능들을 구현하고자 했습니다.
 
-중간 시연까지 위에 설명되어 있는 기능들 중 아주 기본적인 기능이 수행 가능한 Minimal Viable Product를 제작하였습니다.
+그리고 중간 시연까지 위에 설명되어 있는 기능들 중 아주 기본적인 기능이 수행 가능한 Minimal Viable Product를 제작하였습니다.
 
 * 중간시연까지 구현한 기능의 동영상
 https://youtu.be/gOvtueTeT9M
+<amp-youtube width="1280"
+  height="720"
+  layout="responsive"
+  data-videoid="gOvtueTeT9M">
+</amp-youtube>
 
 중간 시연까지는 시간이 부족한 관계로 미흡한 부분이 많았으며 최종 시연까지 이 점들을 보완하기 위해 많은 시간을 투자했습니다.
-
 최종 시연의 목표는 다음과 같았습니다.
 
 성공적인 시연 결과, 당신의 팀이 만든 솔루션을 활용하여 본격적인 신규 매장음원서비스를 기획하기로 결정되었으며, 당신을 본부장급 권한을 가진 “플러그엔 지니” 태스크 포스 리더로 임명하여, 신규 사 업 승인을 위한 최종 데모를 11월 15일 임원회의에서 진행하기로 하였다. 이에 기획팀, 설계팀 및 디자인팀을 이끌고, 나선형 모델 (spiral model)에 입각하여 요구사항 명세서, 설계 명세서 등의 적절 한 산출물과 함께 구체적인 서비스 기획 및 설계를 진행한 후, 이 시 스템에 사용될 케이스와 주변기기에 대한 적절한 디자인을 개발, 3D 프린터로 rapid prototype를 제작하여 성공적인 신제품 데모를 수행하라.
 
 이에 저희 팀은 중간 시연까지 구현하지 못했던 기능적인 부분을 코드로 보완하기로 했고,
 본격적으로 외관에 신경쓰기 위해 Rhino 및 3D 프린터를 이용하는 법을 배웠습니다.
-
-### 추가 된 기능부분
-
-중간 시연까지 구현한 기능은 이전곡, 다음곡, 재생, 정지 기능이 있었습니다.
-요구사항에서 구현하지 못한 기능들은 채널 구현, 서버 구축을 통한 음악 재생, 마지막 재생채널 기억 등이 있었습니다.
-이 부분은 모두 최종 시연까지 구현하는 데에 성공하였습니다.
 
 ### 외관 부분
 
@@ -61,7 +58,10 @@ PCB 보드에 연결할 선을 회로도로 나타낸 모습입니다.
 * 라이노 및 3D 프린팅
 
 사용자가 서서 조작하기 편리하도록 화면과 조작부가 위를 향해 있는 수평형 설계를 했습니다.
-ABS와 PLA 재질을 사용하여 인쇄했으며, 인쇄의 밀도를 증가시켜서 견고하게 인쇄하였습니다.
+ABS와 PLA 재질을 사용하여 인쇄했으며, 밀도를 증가시켜서 견고하게 인쇄하였습니다.
+
+* 사용된 라이노 및 3D 프린팅 자료
+
 
 * 최종 완성본
 
@@ -84,6 +84,9 @@ ABS와 PLA 재질을 사용하여 인쇄했으며, 인쇄의 밀도를 증가시
 ![떼고로고프로토타입](https://github.com/retrowavve/retrowavve.github.io/blob/master/assets/images/ddegoreal6.jpeg)
 이 부분은 고객 입장에서 떼고를 볼 때의 시점입니다. 명함을 가져갈 수 있도록 명함꽂이를 맨 앞에 끼워넣은 모습입니다.
 
+
+- 최종적으로 완성된 ddego의 모습입니다.
+
 * 로고 디자인
 
 - 초기 디자인
@@ -98,12 +101,16 @@ ABS와 PLA 재질을 사용하여 인쇄했으며, 인쇄의 밀도를 증가시
 
 
 
-- 최종적으로 완성된 ddego의 모습입니다.
+## 기능 부분
 
+중간 시연까지 구현한 기능은 이전곡, 다음곡, 재생, 정지 기능이 있었습니다.
+요구사항에서 구현하지 못한 기능들은 채널 구현, 서버 구축을 통한 음악 재생, 마지막 재생채널 기억 등이 있었습니다.
+이 부분은 모두 최종 시연까지 구현하는 데에 성공하였습니다.
+서버 구축은 OpenMediaVault를 사용하였습니다.
 
-* 최종 시연에 사용된 Python 코드 자료
+* 최종 시연에 사용된 Python 코드 자료 및 설명
 
-```javascript
+```python
 
 #!/usr/bin/python
 #--------------------------------------
@@ -155,6 +162,8 @@ GPIO.setup(19, GPIO.IN) #previous song
 GPIO.setup(20, GPIO.IN) #next song
 GPIO.setup(21, GPIO.IN) #channel down
 GPIO.setup(22, GPIO.IN) #channel up
+// 기기 작동에 사용될 버튼을 설정해주는 곳 입니다.
+
 
 
 # Define some device parameters
@@ -228,7 +237,7 @@ def lcd_string(message,line):
   for i in range(LCD_WIDTH):
     lcd_byte(ord(message[i]),LCD_CHR)
 
-
+// LCD 출력 관련 부분 코드입니다.
   
 
 def main():
@@ -267,13 +276,18 @@ def main():
       fd.close()
     j+=1
   j=0
-  
 
   lcd_init()
   
   path = ["/home/pi/Music/classic/", "/home/pi/Music/kpop/", "/home/pi/Music/pop/"]
   #path = ["ftp://192.168.0.77/number1/classics/", "ftp://192.168.0.77/number1/korean/", "ftp://192.168.0.77/number1/pop/"]
   #a = os.listdir(path)
+  
+  
+// 서버에서 스트리밍 하는 방식으로 코드 작성시 인터넷 연결이 불안정할 경우 음악이 자주 끊기는 현상이 발생했습니다.
+// 따라서 저희 팀은 전원 실행시 서버에서 음원을 다운로드를 받아 로컬에 저장한 뒤 재생하는 방식을 채택했습니다.
+// 이 때 이미 받아져 있는 음원은 파일명으로 구분하여 받지 않는 방식으로 다운로드 시간을 줄였습니다.
+
 
   loader1 = open("/home/pi/channel.txt", 'r')
   i = str(loader1.readline())
@@ -286,6 +300,9 @@ def main():
   loader2.close()
   print(channel)
   channel = int((float(channel)))
+  
+// 마지막 재생채널 / 재생곡을 기억하기 위해 종료시 정보를 텍스트 파일에 기록하도록 하였습니다.
+// 재부팅시 텍스트 파일에 저장된 채널 및 곡 정보를 불러오도록 하였습니다.
 
   
   
@@ -297,6 +314,8 @@ def main():
   player.play()
   time.sleep(1)
   count = player.get_state()
+  
+// 처음 실행이 되고 경로를 받아와서 제품에서 노래가 재생되는 부분입니다.
 
   while True:
     count = player.get_state()
@@ -396,6 +415,8 @@ def main():
       player.play()
       time.sleep(1)
       
+// 재생 및 일시정지, 종료, 이전/다음곡, 이전/다음 채널 버튼을 구현한 부분입니다.
+
 
     if i == 0 or i == -3:
       if channel == 0 or channel == -4:
@@ -440,6 +461,7 @@ def main():
         lcd_string("Zara Larsson   ",LCD_LINE_1)
         lcd_string("Not My Fault   ", LCD_LINE_2)
 
+// LCD화면에 표시되는 곡 정보를 표시한 부분입니다.
 
 if __name__ == '__main__':
 
@@ -452,15 +474,13 @@ if __name__ == '__main__':
 
 ```
 
-* 최종 시연에 사용된 코드 설명
-
-기기 작동에 사용될 버튼을 설정해주는 모습입니다.
-
-서버에서 스트리밍 하는 방식으로 코드 작성시 인터넷 연결이 불안정할 경우 음악이 자주 끊기는 현상이 발생했습니다.
-따라서 저희 팀은 전원 실행시 서버에서 음원을 다운로드를 받아 로컬에 저장한 뒤 재생하는 방식을 채택했습니다.
-이 때 이미 받아져 있는 음원은 파일명으로 구분하여 받지 않는 방식으로 다운로드 시간을 줄였습니다.
 
 * 최종 시연 동영상
 https://youtu.be/sGXLG-uNgV4
+<amp-youtube width="1280"
+  height="720"
+  layout="responsive"
+  data-videoid="sGXLG-uNgV4">
+</amp-youtube>
 
 * 최종 시연에 사용된 PPT 발표 자료
