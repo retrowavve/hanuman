@@ -74,7 +74,7 @@ ABS와 PLA 재질을 사용하여 인쇄했으며, 밀도를 증가시켜서 견
 
 ### 사용된 라이노 및 3D 프린팅 자료
 
-3dm 파일과 stl 파일은 [https://github.com/retrowavve/retrowavve.github.io/blob/master/assets/images/ddego_rhino_stl.zip](이 곳)에서 다운로드가 가능합니다.
+3dm 파일과 stl 파일은 [여기](https://github.com/retrowavve/retrowavve.github.io/blob/master/assets/images/ddego_rhino_stl.zip)에서 다운로드가 가능합니다.
 
 ### 제품 최종 완성본
 
