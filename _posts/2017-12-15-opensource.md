@@ -45,6 +45,7 @@ author: Jason Koo
 제품의 이름은 "레고" + "떼었다 붙였다 할 수 있다는 점"을 결합해서 떼고(ddego)라고 결정하였습니다.
 
 ![프로토3](https://github.com/retrowavve/retrowavve.github.io/blob/master/assets/images/ddegoproto3.jpeg)
+<img src="https://github.com/retrowavve/retrowavve.github.io/blob/master/assets/images/ddegoproto3.jpeg"></img>
 ![프로토1](https://github.com/retrowavve/retrowavve.github.io/blob/master/assets/images/ddegoproto1.jpeg)
 
 소규모 매장에서 카운터 옆에 두고 사용할 수 있고, 조작이 편리하도록 초기 프로토타입을 디자인 하는 모습입니다.
