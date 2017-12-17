@@ -57,11 +57,14 @@ PCB 보드에 연결할 선을 회로도로 나타낸 모습입니다.
 
 ### 라이노 및 3D 프린팅
 
+<amp-img src="{{ site.baseurl }}assets/images/ddegorhinoskin.png" width="656" height="400" layout="responsive" alt="" class="mb3"></amp-img>
+
 사용자가 서서 조작하기 편리하도록 화면과 조작부가 위를 향해 있는 수평형 설계를 했습니다.
 ABS와 PLA 재질을 사용하여 인쇄했으며, 밀도를 증가시켜서 견고하게 인쇄하였습니다.
 
 ### 사용된 라이노 및 3D 프린팅 자료
 
+3dm 파일과 stl 파일은 [https://github.com/retrowavve/retrowavve.github.io/blob/master/assets/images/ddego_rhino_stl.zip](이 곳)에서 다운로드가 가능합니다.
 
 ### 제품 최종 완성본
 
