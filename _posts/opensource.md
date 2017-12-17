@@ -24,33 +24,70 @@ https://youtu.be/gOvtueTeT9M
 이에 저희 팀은 중간 시연까지 구현하지 못했던 기능적인 부분을 코드로 보완하기로 했고,
 본격적으로 외관에 신경쓰기 위해 Rhino 및 3D 프린터를 이용하는 법을 배웠습니다.
 
-* 추가 된 기능부분
+### 추가 된 기능부분
 
 중간 시연까지 구현한 기능은 이전곡, 다음곡, 재생, 정지 기능이 있었습니다.
 요구사항에서 구현하지 못한 기능들은 채널 구현, 서버 구축을 통한 음악 재생, 마지막 재생채널 기억 등이 있었습니다.
 이 부분은 모두 최종 시연까지 구현하는 데에 성공하였습니다.
 
-* 외관 부분
-- 프로토타입 디자인
+### 외관 부분
+
+* 제품 프로토타입 디자인
 
 저희 팀은 "레고"를 컨셉으로 제품을 디자인하기로 하였습니다. 하지만 단순히 모양만 레고일 뿐만 아니라, 떼었다 붙였다 할 수 있는 레고의 특징을 최대한 이용하는 방식으로 디자인을 하고자 하였습니다.
-따라서 사용자에 입맛에 따라 "모듈"을 추가할 수 있도록 하여 원하는 대로 기기를 조립할 수 있도록 했고, 매장에서 사용할 수 있는 "모듈"에는 어떤 것들이 있는지 고민하다 명함꽂이, 펜꽂이 등을 모듈로 만들고자 하였습니다.
+따라서 사용자에 입맛에 따라 "모듈"을 추가할 수 있도록 하여 원하는 대로 기기를 배치 및 조립할 수 있도록 했고, 매장에서 사용할 수 있는 "모듈"에는 어떤 것들이 있는지 고민하다 명함꽂이, 펜꽂이 등을 모듈로 만들고자 하였습니다.
+제품의 이름은 "레고" + "떼었다 붙였다 할 수 있다는 점"을 결합해서 떼고(ddego)라고 결정하였습니다.
 
 ![프로토3](https://github.com/retrowavve/retrowavve.github.io/blob/master/assets/images/ddegoproto3.jpeg)
 ![프로토1](https://github.com/retrowavve/retrowavve.github.io/blob/master/assets/images/ddegoproto1.jpeg)
 
-
 소규모 매장에서 카운터 옆에 두고 사용할 수 있고, 조작이 편리하도록 초기 프로토타입을 디자인 하는 모습입니다.
 
+![프로토2](https://github.com/retrowavve/retrowavve.github.io/blob/master/assets/images/ddegoproto2.jpeg)
+![프로토4](https://github.com/retrowavve/retrowavve.github.io/blob/master/assets/images/ddegoproto4.jpeg)
+
 PCB 보드에 연결할 선을 회로도로 나타낸 모습입니다.
-저희 팀은 기본으로 주어진 부피를 많이 차지하는 브레드보드 대신 PCB 보드를 사용하여 부피와 무게를 획기적으로 줄였습니다.
+저희 팀은 기본으로 주어진 부피를 많이 차지하는 브레드보드 대신 "PCB 보드"를 사용하여 부피와 무게를 획기적으로 줄였습니다.
+
+* 라이노 및 3D 프린팅
+
+사용자가 서서 조작하기 편리하도록 화면과 조작부가 위를 향해 있는 수평형 설계를 했습니다.
+ABS와 PLA 재질을 사용하여 인쇄했으며, 인쇄의 밀도를 증가시켜서 견고하게 인쇄하였습니다.
+
+* 최종 완성본
+
+![떼고프로토타입1](https://github.com/retrowavve/retrowavve.github.io/blob/master/assets/images/ddegoreal1.jpeg)
+3D 프린팅을 마친 뒤, 케이스 부분과 라즈베리파이 본체를 결합한 직후의 모습입니다. 순간접착제로 붙인 뒤, 내부는 전기가 통하지 않은 고무찰흙과 지점토를 이용해서 고정하였습니다.
+
+![떼고프로토타입2](https://github.com/retrowavve/retrowavve.github.io/blob/master/assets/images/ddegoreal2.jpeg)
+떼고의 구성품입니다. 레고 모양의 판, 본체, 그리고 "모듈"인 명함꽂이, 펜꽂이 등이 있습니다.
+좀더 직관적인 버튼 작동을 위해 버튼에 화살표 모양의 스티커를 부착했습니다.
+
+![떼고프로토타입3](https://github.com/retrowavve/retrowavve.github.io/blob/master/assets/images/ddegoreal3.jpeg)
+사진과 같이 떼고 본체 밑부분에는 결합부가 달려 있어서 레고 모양의 판과 결합이 가능합니다.
+
+![떼고프로토타입4](https://github.com/retrowavve/retrowavve.github.io/blob/master/assets/images/ddegoreal4.jpeg)
+몇 가지 모듈과 결합한 후의 떼고의 모습입니다.
+
+![떼고로고프로토타입](https://github.com/retrowavve/retrowavve.github.io/blob/master/assets/images/ddegoreal5.jpeg)
+이 부분은 떼고가 카운터에 놓여졌을 때 점장의 시점입니다. 조작이 편리하도록 떼고 본체를 가깝게 배치하였습니다.
+
+![떼고로고프로토타입](https://github.com/retrowavve/retrowavve.github.io/blob/master/assets/images/ddegoreal6.jpeg)
+이 부분은 고객 입장에서 떼고를 볼 때의 시점입니다. 명함을 가져갈 수 있도록 명함꽂이를 맨 앞에 끼워넣은 모습입니다.
 
 * 로고 디자인
+
 - 초기 디자인
+
+![떼고로고프로토타입](https://github.com/retrowavve/retrowavve.github.io/blob/master/assets/images/ddegologoproto.jpeg)
 
 - 완성본
 
+![떼고로고](https://github.com/retrowavve/retrowavve.github.io/blob/master/assets/images/ddegologo.png)
+
 떼었다 붙였다 할 수 있는 제품의 특징을 반영하여 알파벳 밑에는 레고 판을 넣었으며, 첫 알파벳 d가 떼어져 있는 모습을 디자인하였습니다.
+
+
 
 - 최종적으로 완성된 ddego의 모습입니다.
 
