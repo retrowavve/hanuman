@@ -1,9 +1,8 @@
 ---
 layout: post
-cover: 'assets/images/tree.jpg'
 title: 2017 1-2 OpenSource: Music Player "DDEGO"
 date: 2017-12-15 12:00:00
-tags: ddego, opensource, hanyang
+tags: ddego
 author: Jason Koo
 ---
 
