@@ -90,11 +90,11 @@ ABS와 PLA 재질을 사용하여 인쇄했으며, 밀도를 증가시켜서 견
 
 #### 로고 초기 디자인
 
-<amp-img src="{{ site.baseurl }}assets/images/ddegologoproto.png" width="656" height="400" layout="responsive" alt="" class="mb3"></amp-img>
+<amp-img src="{{ site.baseurl }}assets/images/ddegologoproto.jpeg" width="656" height="400" layout="responsive" alt="" class="mb3"></amp-img>
 
 #### 로고 최종 완성본
 
-<amp-img src="{{ site.baseurl }}assets/images/ddegologo.png" width="656" height="400" layout="responsive" alt="" class="mb3"></amp-img>
+<amp-img src="{{ site.baseurl }}assets/images/ddegologo.png" width="688" height="241" layout="responsive" alt="" class="mb3"></amp-img>
 
 떼었다 붙였다 할 수 있는 제품의 특징을 반영하여 알파벳 밑에는 레고 판을 넣었으며, 첫 알파벳 d가 떼어져 있는 모습을 디자인하였습니다.
 
