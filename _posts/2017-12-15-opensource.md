@@ -48,12 +48,14 @@ author: Jason Koo
 <img src="https://github.com/retrowavve/retrowavve.github.io/blob/master/assets/images/ddegoproto3.jpeg"></img>
 <amp-img src="{https://github.com/retrowavve/retrowavve.github.io/blob/master/assets/images/ddegoproto3.jpeg" width="656" height="400" layout="responsive" alt="" class="mb3"></amp-img>
 <amp-img src="{{ site.baseurl }}assets/images/shiva.jpg" width="656" height="400" layout="responsive" alt="" class="mb3"></amp-img>
-<amp-img src="{/assets/images/shiva.jpg" width="656" height="400" layout="responsive" alt="" class="mb3"></amp-img>
-![프로토1](https://github.com/retrowavve/retrowavve.github.io/blob/master/assets/images/ddegoproto1.jpeg)
+<amp-img src="{{ site.baseurl }}assets/images/ddegoproto3.jpeg" width="656" height="400" layout="responsive" alt="" class="mb3"></amp-img>
+
 dkdk
 
 소규모 매장에서 카운터 옆에 두고 사용할 수 있고, 조작이 편리하도록 초기 프로토타입을 디자인 하는 모습입니다.
 
+<amp-img src="{{ site.baseurl }}assets/images/ddegoproto2.jpeg" width="656" height="400" layout="responsive" alt="" class="mb3"></amp-img>
+<amp-img src="{{ site.baseurl }}assets/images/ddegoproto4.jpeg" layout="responsive" alt="" class="mb3"></amp-img>
 ![프로토2](https://github.com/retrowavve/retrowavve.github.io/blob/master/assets/images/ddegoproto2.jpeg)
 ![프로토4](https://github.com/retrowavve/retrowavve.github.io/blob/master/assets/images/ddegoproto4.jpeg)
 
