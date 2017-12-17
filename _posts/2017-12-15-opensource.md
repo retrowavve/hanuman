@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2017 1-2 OpenSource: Music Player "DDEGO"
+title: "DDEGO"
 date: 2017-12-15 12:00:00
 tags: ddego
 author: Jason Koo
