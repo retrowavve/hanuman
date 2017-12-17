@@ -480,4 +480,4 @@ if __name__ == '__main__':
 최종 시연의 동영상은 [여기](https://youtu.be/sGXLG-uNgV4)서 확인 가능합니다.
 
 ### 최종 시연에 사용된 PPT 발표 자료
-![이 곳](https://github.com/retrowavve/retrowavve.github.io/blob/master/assets/images/ddego_presentation.pptx)에서 다운로드가 가능합니다.
+[이 곳](https://github.com/retrowavve/retrowavve.github.io/blob/master/assets/images/ddego_presentation.pptx)에서 다운로드가 가능합니다.
