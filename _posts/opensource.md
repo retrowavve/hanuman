@@ -474,6 +474,7 @@ if __name__ == '__main__':
 
 ### 최종 시연 동영상
 최종 시연의 동영상은 [여기](https://youtu.be/sGXLG-uNgV4)서 확인 가능합니다.
+[![최종 시연 동영상](http://img.youtube.com/vi/sGXLG-uNgV4/0.jpg)](https://youtu.be/sGXLG-uNgV4?t=0s)
 
 <amp-youtube width="1280"
   height="720"
