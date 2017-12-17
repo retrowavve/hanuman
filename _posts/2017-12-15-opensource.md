@@ -5,6 +5,7 @@ date: 2017-12-15 12:00:00
 tags: ddego
 author: Jason Koo
 ---
+<amp-img src="{{ site.baseurl }}assets/images/ddegologo.png" width="688" height="241" layout="responsive" alt="" class="mb3"></amp-img>
 
 # 개요
 대학교에 들어와서 처음 접한 PBL이라는 수업이 있었습니다. 이는 Problem-Based Learning의 줄임말로, 어떤 주제에 대해 학생이 직접 문제를 해결해가면서 배우는 방식의 수업이었습니다. 일정한 과정만을 따라가며 그대로 따라하는 방식에 익숙해져 있는 저는 이러한 수업 방식이 생소하게 느껴졌지만 문제를 직접 해결해 나가면서 보람을 느낄 수 있었습니다.
