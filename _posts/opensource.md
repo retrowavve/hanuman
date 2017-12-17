@@ -10,6 +10,7 @@ author: Jason Koo
 # 개요
 대학교에 들어와서 처음 접한 PBL이라는 수업이 있었습니다. 이는 Problem-Based Learning의 줄임말로, 어떤 주제에 대해 학생이 직접 문제를 해결해가면서 배우는 방식의 수업이었습니다. 일정한 과정만을 따라가며 그대로 따라하는 방식에 익숙해져 있는 저는 이러한 수업 방식이 생소하게 느껴졌습니다.
 
+
 # 첫 번째 목표: 중간 시연
 1학년 2학기에 수강하게 된 오픈소스라는 PBL 강의에서는, 매장에서 음원을 재생할 때 사용하는 최소기능제품 개발 프로젝트를 맡게 되었습니다.
 먼저 처음 프로젝트에서 주어진 목표는 다음과 같았습니다.
@@ -24,6 +25,7 @@ author: Jason Koo
 [![중간 시연 동영상](http://img.youtube.com/vi/gOvtueTeT9M/0.jpg)](https://youtu.be/gOvtueTeT9M?t=0s)
 
 중간 시연의 동영상은 [여기](https://youtu.be/gOvtueTeT9M)서 확인 가능합니다.
+
 
 # 두 번째 목표: 최종 시연
 
@@ -474,13 +476,8 @@ if __name__ == '__main__':
 
 
 ### 최종 시연 동영상
-최종 시연의 동영상은 [여기](https://youtu.be/sGXLG-uNgV4)서 확인 가능합니다.
 [![최종 시연 동영상](http://img.youtube.com/vi/sGXLG-uNgV4/0.jpg)](https://youtu.be/sGXLG-uNgV4?t=0s)
 
-<amp-youtube width="1280"
-  height="720"
-  layout="responsive"
-  data-videoid="sGXLG-uNgV4">
-</amp-youtube>
+최종 시연의 동영상은 [여기](https://youtu.be/sGXLG-uNgV4)서 확인 가능합니다.
 
 ### 최종 시연에 사용된 PPT 발표 자료
