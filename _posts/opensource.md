@@ -22,6 +22,7 @@ author: Jason Koo
 
 ### 중간 시연 동영상
 [![중간 시연 동영상](http://img.youtube.com/vi/gOvtueTeT9M/0.jpg)](https://youtu.be/gOvtueTeT9M?t=0s)
+
 중간 시연의 동영상은 [여기](https://youtu.be/gOvtueTeT9M)서 확인 가능합니다.
 
 # 두 번째 목표: 최종 시연
