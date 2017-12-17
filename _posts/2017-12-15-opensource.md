@@ -44,20 +44,13 @@ author: Jason Koo
 따라서 사용자에 입맛에 따라 "모듈"을 추가할 수 있도록 하여 원하는 대로 기기를 배치 및 조립할 수 있도록 했고, 매장에서 사용할 수 있는 "모듈"에는 어떤 것들이 있는지 고민하다 명함꽂이, 펜꽂이 등을 모듈로 만들고자 하였습니다.
 제품의 이름은 "레고" + "떼었다 붙였다 할 수 있다는 점"을 결합해서 떼고(ddego)라고 결정하였습니다.
 
-![프로토3](https://github.com/retrowavve/retrowavve.github.io/blob/master/assets/images/ddegoproto3.jpeg)
-<img src="https://github.com/retrowavve/retrowavve.github.io/blob/master/assets/images/ddegoproto3.jpeg"></img>
-<amp-img src="{https://github.com/retrowavve/retrowavve.github.io/blob/master/assets/images/ddegoproto3.jpeg" width="656" height="400" layout="responsive" alt="" class="mb3"></amp-img>
-<amp-img src="{{ site.baseurl }}assets/images/shiva.jpg" width="656" height="400" layout="responsive" alt="" class="mb3"></amp-img>
 <amp-img src="{{ site.baseurl }}assets/images/ddegoproto3.jpeg" width="656" height="400" layout="responsive" alt="" class="mb3"></amp-img>
-
-dkdk
+<amp-img src="{{ site.baseurl }}assets/images/ddegoproto1.jpeg" width="656" height="400" layout="responsive" alt="" class="mb3"></amp-img>
 
 소규모 매장에서 카운터 옆에 두고 사용할 수 있고, 조작이 편리하도록 초기 프로토타입을 디자인 하는 모습입니다.
 
 <amp-img src="{{ site.baseurl }}assets/images/ddegoproto2.jpeg" width="656" height="400" layout="responsive" alt="" class="mb3"></amp-img>
-<amp-img src="{{ site.baseurl }}assets/images/ddegoproto4.jpeg" layout="responsive" alt="" class="mb3"></amp-img>
-![프로토2](https://github.com/retrowavve/retrowavve.github.io/blob/master/assets/images/ddegoproto2.jpeg)
-![프로토4](https://github.com/retrowavve/retrowavve.github.io/blob/master/assets/images/ddegoproto4.jpeg)
+<amp-img src="{{ site.baseurl }}assets/images/ddegoproto4.jpeg" width="656" height="400" layout="responsive" alt="" class="mb3"></amp-img>
 
 PCB 보드에 연결할 선을 회로도로 나타낸 모습입니다.
 저희 팀은 기본으로 주어진 부피를 많이 차지하는 브레드보드 대신 "PCB 보드"를 사용하여 부피와 무게를 획기적으로 줄였습니다.
@@ -72,23 +65,23 @@ ABS와 PLA 재질을 사용하여 인쇄했으며, 밀도를 증가시켜서 견
 
 ### 제품 최종 완성본
 
-![떼고프로토타입1](https://github.com/retrowavve/retrowavve.github.io/blob/master/assets/images/ddegoreal.jpeg)
+<amp-img src="{{ site.baseurl }}assets/images/ddegoreal.jpeg" width="656" height="400" layout="responsive" alt="" class="mb3"></amp-img>
 3D 프린팅을 마친 뒤, 케이스 부분과 라즈베리파이 본체를 결합한 직후의 모습입니다. 순간접착제로 붙인 뒤, 내부는 전기가 통하지 않은 고무찰흙과 지점토를 이용해서 고정하였습니다.
 
-![떼고프로토타입2](https://github.com/retrowavve/retrowavve.github.io/blob/master/assets/images/ddegoreal2.jpeg)
+<amp-img src="{{ site.baseurl }}assets/images/ddegoreal2.jpeg" width="656" height="400" layout="responsive" alt="" class="mb3"></amp-img>
 최종적으로 완성된 떼고와 떼고의 구성품입니다. 레고 모양의 판, 본체, 그리고 "모듈"인 명함꽂이, 펜꽂이 등이 있습니다.
 좀더 직관적인 버튼 작동을 위해 버튼에 화살표 모양의 스티커를 부착했습니다.
 
-![떼고프로토타입3](https://github.com/retrowavve/retrowavve.github.io/blob/master/assets/images/ddegoreal3.jpeg)
+<amp-img src="{{ site.baseurl }}assets/images/ddegoreal3.jpeg" width="656" height="400" layout="responsive" alt="" class="mb3"></amp-img>
 사진과 같이 떼고 본체 밑부분에는 결합부가 달려 있어서 레고 모양의 판과 결합이 가능합니다.
 
-![떼고프로토타입4](https://github.com/retrowavve/retrowavve.github.io/blob/master/assets/images/ddegoreal4.jpeg)
+<amp-img src="{{ site.baseurl }}assets/images/ddegoreal4.jpeg" width="656" height="400" layout="responsive" alt="" class="mb3"></amp-img>
 몇 가지 모듈과 결합한 후의 떼고의 모습입니다.
 
-![떼고로고프로토타입](https://github.com/retrowavve/retrowavve.github.io/blob/master/assets/images/ddegoreal5.jpeg)
+<amp-img src="{{ site.baseurl }}assets/images/ddegoreal5.jpeg" width="656" height="400" layout="responsive" alt="" class="mb3"></amp-img>
 이 부분은 떼고가 카운터에 놓여졌을 때 점장의 시점입니다. 조작이 편리하도록 떼고 본체를 가깝게 배치하였습니다.
 
-![떼고로고프로토타입](https://github.com/retrowavve/retrowavve.github.io/blob/master/assets/images/ddegoreal6.jpeg)
+<amp-img src="{{ site.baseurl }}assets/images/ddegoreal6.jpeg" width="656" height="400" layout="responsive" alt="" class="mb3"></amp-img>
 이 부분은 고객 입장에서 떼고를 볼 때의 시점입니다. 명함을 가져갈 수 있도록 명함꽂이를 맨 앞에 끼워넣은 모습입니다.
 
 
@@ -97,11 +90,11 @@ ABS와 PLA 재질을 사용하여 인쇄했으며, 밀도를 증가시켜서 견
 
 #### 로고 초기 디자인
 
-![떼고로고프로토타입](https://github.com/retrowavve/retrowavve.github.io/blob/master/assets/images/ddegologoproto.jpeg)
+<amp-img src="{{ site.baseurl }}assets/images/ddegologoproto.png" width="656" height="400" layout="responsive" alt="" class="mb3"></amp-img>
 
 #### 로고 최종 완성본
 
-![떼고로고](https://github.com/retrowavve/retrowavve.github.io/blob/master/assets/images/ddegologo.png)
+<amp-img src="{{ site.baseurl }}assets/images/ddegologo.png" width="656" height="400" layout="responsive" alt="" class="mb3"></amp-img>
 
 떼었다 붙였다 할 수 있는 제품의 특징을 반영하여 알파벳 밑에는 레고 판을 넣었으며, 첫 알파벳 d가 떼어져 있는 모습을 디자인하였습니다.
 
