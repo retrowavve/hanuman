@@ -1,3 +1,12 @@
+---
+layout: post
+cover: 'assets/images/tree.jpg'
+title: 2017년 1학년 2학기 오픈소스 실습: 뮤직 플레이어 떼고 "DDEGO"
+date: 2017-12-17 12:00:00
+tags: ddego, opensource, hanyang
+author: Jason Koo
+---
+
 
 대학교에 들어와서 처음 접한 PBL이라는 수업이 있었습니다. 이는 Problem-Based Learning의 줄임말로, 어떤 주제에 대해 학생이 직접 문제를 해결해가면서 배우는 방식의 수업이었습니다. 일정한 과정만을 따라가며 그대로 따라하는 방식에 익숙해져 있는 저는 이러한 수업 방식이 생소하게 느껴졌습니다.
 1학년 2학기에 수강하게 된 오픈소스라는 PBL 강의에서는, 매장에서 음원을 재생할 때 사용하는 최소기능제품 개발 프로젝트를 맡게 되었습니다.
