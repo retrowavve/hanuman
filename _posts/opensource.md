@@ -69,7 +69,7 @@ ABS와 PLA 재질을 사용하여 인쇄했으며, 밀도를 증가시켜서 견
 
 ### 제품 최종 완성본
 
-![떼고프로토타입1](https://github.com/retrowavve/retrowavve.github.io/blob/master/assets/images/ddegoreal1.jpeg)
+![떼고프로토타입1](https://github.com/retrowavve/retrowavve.github.io/blob/master/assets/images/ddegoreal.jpeg)
 3D 프린팅을 마친 뒤, 케이스 부분과 라즈베리파이 본체를 결합한 직후의 모습입니다. 순간접착제로 붙인 뒤, 내부는 전기가 통하지 않은 고무찰흙과 지점토를 이용해서 고정하였습니다.
 
 ![떼고프로토타입2](https://github.com/retrowavve/retrowavve.github.io/blob/master/assets/images/ddegoreal2.jpeg)
