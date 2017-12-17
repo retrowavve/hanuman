@@ -22,7 +22,8 @@ author: Jason Koo
 
 그리고 중간 시연까지 위에 설명되어 있는 기능들 중 아주 기본적인 기능이 수행 가능한 Minimal Viable Product를 제작하였습니다.
 
-* [중간시연까지 구현한 기능의 동영상](https://youtu.be/gOvtueTeT9M)은 여기서 확인 가능합니다.
+### 중간 시연 동영상
+중간 시연의 동영상은 [여기](https://youtu.be/gOvtueTeT9M)서 확인 가능합니다.
 
 <amp-youtube width="1280"
   height="720"
@@ -479,7 +480,8 @@ if __name__ == '__main__':
 
 
 ### 최종 시연 동영상
-https://youtu.be/sGXLG-uNgV4
+최종 시연의 동영상은 [여기](https://youtu.be/sGXLG-uNgV4)서 확인 가능합니다.
+
 <amp-youtube width="1280"
   height="720"
   layout="responsive"
