@@ -508,6 +508,8 @@ if __name__ == '__main__':
 ### 최종 시연에 사용된 PPT 발표 자료
 [이 곳](https://github.com/retrowavve/retrowavve.github.io/blob/master/assets/images/ddego_presentation.pptx)에서 다운로드가 가능합니다.
 
+### 팀 활동일지
+팀 활동일지는 [여기](https://github.com/retrowavve/retrowavve.github.io/blob/master/assets/images/oss_teamreport.zip)에서 다운로드가 가능합니다.
 # 느낀 점 및 배운 점
 
   처음 프로젝트를 시작할 때만 해도 과연 내가 이 문제를 끝까지 해결할 수 있을까 하는 의문이 들었다. 1학기 때 배운 파이썬 지식이 부족해서 코딩하는 데에 애도 많이 먹었고 시간도 많이 들었다. 팀원들의 시간표, 사는 곳도 모두 달라서 따로 짬을 내서 만나는 것도 어려웠다. 하지만 이렇게 프로젝트를 끝까지 마치고 나니 수업시간 외에도 내가 무언가 스스로 만들어 볼 수 있다는 자신감이 생겼다. 또 문제가 되는 부분을 직접 구글링을 통해 해결책을 찾다 보니, 어떤 상황에서 어떻게 대처해야 하는지 더 기억 속에 잘 남았다. 
